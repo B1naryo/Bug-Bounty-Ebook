@@ -1,2 +1,2 @@
 # Bug-Bounty-Ebook
-Welcome to the Bug Bounty Ebook Repository! Here, you'll find a curated collection of valuable resources, guides, and insights dedicated to the world of bug bounty hunting. 
+Welcome to the Bug Bounty Ebook Repository! Here, you'll find a curated collection of valuable resources, guides, and insights dedicated to the world of bug bounty hunting. Explore comprehensive ebooks covering various aspects of cybersecurity, ethical hacking techniques, vulnerability discovery, and much more. Whether you're a seasoned bug hunter or just starting your journey into cybersecurity, this repository has something for everyone. Stay updated with the latest trends, best practices, and expert tips to enhance your bug bounty hunting skills. Happy hunting!
